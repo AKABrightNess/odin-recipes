@@ -1,0 +1,10 @@
+.title,
+.item {
+    font-family: 'Brush Script MT', cursive;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 50px;
+    margin-left: 40px;
+}
